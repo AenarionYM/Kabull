@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bielmar
+  - Coin
+  - Shop
+  - Rabab
+  - Automat
+  - Bielmar_Spotted
+  - Player_Dead
+  - Enemy
+  - Friend
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Interact
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 869955245
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Kabull
+    uniqueID: 1006999469
+    locked: 0
+  - name: Foreground
+    uniqueID: 2703615985
+    locked: 0

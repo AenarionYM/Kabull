@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3a03b02ca35c8041a9617fc6aca6867
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - isGroundedChecker: {instanceID: 0}
+  - standingCollider: {instanceID: 0}
+  - crouchingCollider: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - sd: {instanceID: 0}
+  - ds: {fileID: 21300000, guid: 15c673eb6e2b57b41b8e4bc28d559290, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
